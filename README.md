@@ -7,7 +7,4 @@
 ![](home_page_mvc.gif)
 
 
-### Crud Operations
-![](crud.gif)
-
 
