@@ -8,6 +8,6 @@
 
 
 ### Crud Operations
-![](crud_mvc.gif)
+![](crud.gif)
 
 
