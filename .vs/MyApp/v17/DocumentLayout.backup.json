@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josue\\source\\repos\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\views\\diaryentries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\diaryentries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\views\\diaryentries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\diaryentries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\migrations\\20250429105536_addedseedingdatadiaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\migrations\\20250429105536_addedseedingdatadiaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\migrations\\20250428125047_adddiaryentrytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\migrations\\20250428125047_adddiaryentrytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|c:\\users\\josue\\source\\repos\\myapp\\myapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C453E8-D81A-41B5-A3A7-4017F21F3243}|MyApp\\MyApp.csproj|solutionrelative:myapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Program.cs",
+              "RelativeToolTip": "MyApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:54:24.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T22:24:39.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T22:51:15.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiaryEntriesController.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Controllers\\DiaryEntriesController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\DiaryEntriesController.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Controllers\\DiaryEntriesController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\DiaryEntriesController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:34:06.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T22:09:27.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiaryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Models\\DiaryEntry.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\DiaryEntry.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Models\\DiaryEntry.cs",
+              "RelativeToolTip": "MyApp\\Models\\DiaryEntry.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:48:27.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T23:52:27.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\appsettings.json",
+              "RelativeToolTip": "MyApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T12:38:26.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T17:44:53.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T10:40:29.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T21:54:36.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "MyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "MyApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAACEyAAAAAAAAAAAUwCkyAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-30T18:18:50.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MyApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MyApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T11:07:19.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250429105536_AddedSeedingDataDiaryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Migrations\\20250429105536_AddedSeedingDataDiaryEntry.cs",
+              "RelativeDocumentMoniker": "MyApp\\Migrations\\20250429105536_AddedSeedingDataDiaryEntry.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Migrations\\20250429105536_AddedSeedingDataDiaryEntry.cs",
+              "RelativeToolTip": "MyApp\\Migrations\\20250429105536_AddedSeedingDataDiaryEntry.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:55:37.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:48:06.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250428125047_AddDiaryEntryTable.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Migrations\\20250428125047_AddDiaryEntryTable.cs",
+              "RelativeDocumentMoniker": "MyApp\\Migrations\\20250428125047_AddDiaryEntryTable.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\MyApp\\MyApp\\Migrations\\20250428125047_AddDiaryEntryTable.cs",
+              "RelativeToolTip": "MyApp\\Migrations\\20250428125047_AddDiaryEntryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:50:48.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
